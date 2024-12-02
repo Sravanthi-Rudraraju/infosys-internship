@@ -121,7 +121,7 @@ const Wallet = () => {
                   <CardTitle className="text-2xl">My Wallet</CardTitle>
                   <div className="flex items-center gap-2">
                     <p className="text-gray-200 text-sm">
-                      #FAVHJY{wallet.userWallet?.id}
+                      #RSSJV{wallet.userWallet?.id}
                     </p>
 
                     <CopyIcon
