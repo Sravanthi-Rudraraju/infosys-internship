@@ -66,7 +66,7 @@ const PaymentDetailsForm = () => {
                   <Input
                     {...field}
                     className="border w-full border-gray-700 py-5 px-5"
-                    placeholder="Kaluru Anirudh"
+                    placeholder="Sravanthi"
                   />
                 </FormControl>
 
@@ -86,7 +86,7 @@ const PaymentDetailsForm = () => {
                     {...field}
                     name="ifsc"
                     className="border w-full border-gray-700 py-5 px-5"
-                    placeholder="YESB0000009"
+                    placeholder="BANKB0000009"
                   />
                 </FormControl>
 
@@ -106,7 +106,7 @@ const PaymentDetailsForm = () => {
                   <Input
                     {...field}
                     className="border w-full border-gray-700 py-5 px-5"
-                    placeholder="*********5602"
+                    placeholder="*********3906"
                   />
                 </FormControl>
 
@@ -144,7 +144,7 @@ const PaymentDetailsForm = () => {
                   <Input
                     {...field}
                     className="border w-full border-gray-700 py-5 px-5"
-                    placeholder="YES Bank"
+                    placeholder="Bank"
                   />
                 </FormControl>
 
